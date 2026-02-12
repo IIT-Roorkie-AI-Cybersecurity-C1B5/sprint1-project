@@ -1,4 +1,4 @@
-# sprint1-project -— Network Security Controls
+# Sprint1-project -— Network Security Controls
 Repository for IIT Roorkie Ai Cybersecurity Batch 5 - Sprint 1
 
 
