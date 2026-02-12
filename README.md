@@ -1,7 +1,6 @@
-# sprint1-project
+# sprint1-project -— Network Security Controls
 Repository for IIT Roorkie Ai Cybersecurity Batch 5 - Sprint 1
 
-# Sprint 1 Project — Network Security Controls
 
 ## Project Title
 **Network Security Controls: Firewalls, IDS/IPS, Network Segmentation, VPNs, and Traffic Monitoring**
