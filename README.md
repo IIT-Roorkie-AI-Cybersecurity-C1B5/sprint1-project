@@ -53,20 +53,24 @@ A mid-sized organization with:
 # Repository Structure
 sprint1-project/
 ├── README.md
+
 ├── docs/
 │   ├── main-report.md
 │   ├── executive-summary.md
 │   └── diagrams/
+
 ├── prompts/
 │   ├── member1-prompts.md
 │   ├── member2-prompts.md
 │   ├── member3-prompts.md
 │   └── member4-prompts.md
+
 ├── meetings/
 │   ├── sprint-planning.md
 │   ├── standups/
 │   └── retrospective.md
 └── presentation/
+
 
 ## Sprint Plan
 ### Sprint 1 – Research & Design
